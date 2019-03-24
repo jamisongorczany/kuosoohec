@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bohkahpaa.codiad.com/sitemap.xml
